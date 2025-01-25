@@ -9,13 +9,13 @@
 
     - the relevant data from QuickBooks that needs to be reconciled with warehouse records.
 
-    - Process the data using Durasein_cleaning.py to generate the company’s inventory dataset for that specific warehouse.
+    - Process the data using [Durasein_cleaning.py](https://pages.github.com/) to generate the company’s inventory dataset for that specific warehouse.
 
 2. **Warehouse Data Preparation**
 
     - Obtain the inventory reports from the respective warehouses.
 
-    - As each warehouse report has its unique format, use the corresponding {Warehouse_Location}_cleaning.py script to clean and standardize the data.
+    - As each warehouse report has its unique format, use the corresponding [{Warehouse_Location}_cleaning.py](https://pages.github.com/) script to clean and standardize the data.
 
 3. **Reconciliation**
 
